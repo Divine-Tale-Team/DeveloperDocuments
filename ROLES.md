@@ -13,6 +13,5 @@ Here is the list of roles (ordered by most to least authority):
 - Beta Testers
 
 ## Administrators
-The only administrator (and owner) here is Astra. He is full authority of this entire project.
-
+The only administrator (and owner) here is Astra. He has full authority of this entire project.
 As of right now, Astra is only doing solo development, and he will decide when it is best to recruit new members to be a part of the team.
